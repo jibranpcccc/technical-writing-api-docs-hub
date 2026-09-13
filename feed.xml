@@ -4,10 +4,17 @@
     <title>Technical Writing &amp; API Docs Hub</title>
     <link>https://jibranpcccc.github.io/technical-writing-api-docs-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 12 Sep 2026 10:35:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 14:05:00 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/technical-writing-api-docs-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
+      <link>https://t.me/devops_channel</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-telegram-20260913-1-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 14:05:00 GMT</pubDate>
+      <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Aggregated daily articles on site reliability engineering, observability stacks, and infrastructure automation.</description>
+    </item>
+<item>
       <title>Technical Writing &amp; API Docs Hub Initial Release</title>
       <link>https://jibranpcccc.github.io/technical-writing-api-docs-hub/</link>
       <pubDate>Sat, 12 Sep 2026 10:35:07 GMT</pubDate>
