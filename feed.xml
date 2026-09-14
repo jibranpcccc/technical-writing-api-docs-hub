@@ -4,10 +4,17 @@
     <title>Technical Writing &amp; API Docs Hub</title>
     <link>https://jibranpcccc.github.io/technical-writing-api-docs-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 14:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:09:08 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/technical-writing-api-docs-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-        <item>
+            <item>
+      <title>📅 Today's Fresh Pick: Cloud Native &amp; K8s Network (Telegram)</title>
+      <link>https://t.me/cloud_native_hub</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-telegram-20260914-1-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 06:09:08 GMT</pubDate>
+      <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
       <link>https://t.me/devops_channel</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-telegram-20260913-1-2026-09-13</guid>
