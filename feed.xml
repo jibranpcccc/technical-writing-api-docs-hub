@@ -4,10 +4,17 @@
     <title>Technical Writing &amp; API Docs Hub</title>
     <link>https://jibranpcccc.github.io/technical-writing-api-docs-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:04:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:05:02 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/technical-writing-api-docs-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hack The Box Official Discord (Discord)</title>
+      <link>https://discord.gg/hackthebox</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-discord-20261013-1-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 06:05:02 GMT</pubDate>
+      <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Official community for Hack The Box users tackling active CTF machines, forensic challenges, and Academy modules.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/bugbounty Hunters (Reddit)</title>
       <link>https://www.reddit.com/r/bugbounty/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-reddit-20261011-1-2026-10-11</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-telegram-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 14:05:00 GMT</pubDate>
       <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Aggregated daily articles on site reliability engineering, observability stacks, and infrastructure automation.</description>
-    </item>
-<item>
-      <title>Technical Writing &amp; API Docs Hub Initial Release</title>
-      <link>https://jibranpcccc.github.io/technical-writing-api-docs-hub/</link>
-      <pubDate>Sat, 12 Sep 2026 10:35:07 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
