@@ -4,10 +4,17 @@
     <title>Technical Writing &amp; API Docs Hub</title>
     <link>https://jibranpcccc.github.io/technical-writing-api-docs-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 13 Oct 2026 06:05:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:05:04 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/technical-writing-api-docs-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                        <item>
+                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: TryHackMe Official Discord (Discord)</title>
+      <link>https://discord.gg/tryhackme</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-discord-20261015-1-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 06:05:04 GMT</pubDate>
+      <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Beginner and intermediate hands-on cybersecurity learning platform with active study groups and walkthrough support.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hack The Box Official Discord (Discord)</title>
       <link>https://discord.gg/hackthebox</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-discord-20261013-1-2026-10-13</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-telegram-20260914-1-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 06:09:08 GMT</pubDate>
       <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
-      <link>https://t.me/devops_channel</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-telegram-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 14:05:00 GMT</pubDate>
-      <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Aggregated daily articles on site reliability engineering, observability stacks, and infrastructure automation.</description>
     </item>
   </channel>
 </rss>
