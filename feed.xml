@@ -4,10 +4,17 @@
     <title>Technical Writing &amp; API Docs Hub</title>
     <link>https://jibranpcccc.github.io/technical-writing-api-docs-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 18 Oct 2026 06:04:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:04:51 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/technical-writing-api-docs-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                        <item>
+                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hack The Box Community Forum (Forum)</title>
+      <link>https://forum.hackthebox.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-forum-20261019-1-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 06:04:51 GMT</pubDate>
+      <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Vibrant discussion boards for hints on retired machines, certification advice, and offensive tooling.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: 0x00sec Hacking Community (Forum)</title>
       <link>https://0x00sec.org</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-forum-20261018-1-2026-10-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-reddit-20260919-1-2026-09-19</guid>
       <pubDate>Sat, 19 Sep 2026 06:04:34 GMT</pubDate>
       <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Vibrant discussion forum on OpenAI ChatGPT updates, prompt engineering strategies, custom GPTs, and creative workflows.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/LocalLLaMA Open Models (Reddit)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-reddit-20260918-1-2026-09-18</guid>
-      <pubDate>Fri, 18 Sep 2026 06:18:34 GMT</pubDate>
-      <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.</description>
     </item>
   </channel>
 </rss>
