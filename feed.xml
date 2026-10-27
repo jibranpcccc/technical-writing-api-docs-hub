@@ -4,10 +4,17 @@
     <title>Technical Writing &amp; API Docs Hub</title>
     <link>https://jibranpcccc.github.io/technical-writing-api-docs-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 26 Oct 2026 06:50:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:05:29 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/technical-writing-api-docs-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                        <item>
+                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-forum-20261026-1-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 06:05:29 GMT</pubDate>
+      <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-forum-20261026-1-2026-10-26</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-reddit-20260929-1-2026-09-29</guid>
       <pubDate>Tue, 29 Sep 2026 06:05:24 GMT</pubDate>
       <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Systematic discussion of prompt architecture, few-shot conditioning, chain-of-thought methods, and agentic workflows.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Machine Learning Digest Channel (Telegram)</title>
-      <link>https://t.me/machinelearning_digest</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-telegram-20260927-1-2026-09-27</guid>
-      <pubDate>Sun, 27 Sep 2026 06:04:42 GMT</pubDate>
-      <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Daily curated breakdown of machine learning algorithms, deep learning implementations, and neural net research.</description>
     </item>
   </channel>
 </rss>
