@@ -4,10 +4,17 @@
     <title>Technical Writing &amp; API Docs Hub</title>
     <link>https://jibranpcccc.github.io/technical-writing-api-docs-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 06:04:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:05:00 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/technical-writing-api-docs-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                            <item>
+                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-forum-20261026-1-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 06:05:00 GMT</pubDate>
+      <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-forum-20261026-1-2026-11-02</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-forum-20261005-1-2026-10-05</guid>
       <pubDate>Mon, 05 Oct 2026 06:05:15 GMT</pubDate>
       <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Official developer forum for troubleshooting OpenAI API endpoints, fine-tuning jobs, and function calling.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: PyTorch GitHub Discussions (GitHub)</title>
-      <link>https://discuss.pytorch.org</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-github-20261003-1-2026-10-03</guid>
-      <pubDate>Sat, 03 Oct 2026 06:29:09 GMT</pubDate>
-      <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Official PyTorch open-source discussions on CUDA acceleration, model architectures, and compiler backends.</description>
     </item>
   </channel>
 </rss>
