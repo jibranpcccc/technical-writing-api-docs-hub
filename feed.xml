@@ -4,10 +4,17 @@
     <title>Technical Writing &amp; API Docs Hub</title>
     <link>https://jibranpcccc.github.io/technical-writing-api-docs-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 10 Nov 2026 06:05:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:04:55 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/technical-writing-api-docs-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-forum-20261026-1-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 06:04:55 GMT</pubDate>
+      <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-forum-20261026-1-2026-11-10</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-discord-20261013-1-2026-10-13</guid>
       <pubDate>Tue, 13 Oct 2026 06:05:02 GMT</pubDate>
       <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Official community for Hack The Box users tackling active CTF machines, forensic challenges, and Academy modules.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/bugbounty Hunters (Reddit)</title>
-      <link>https://www.reddit.com/r/bugbounty/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-reddit-20261011-1-2026-10-11</guid>
-      <pubDate>Sun, 11 Oct 2026 06:04:54 GMT</pubDate>
-      <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Tips, methodologies, writeups, and bounty program discussions for HackerOne and Bugcrowd researchers.</description>
     </item>
   </channel>
 </rss>
