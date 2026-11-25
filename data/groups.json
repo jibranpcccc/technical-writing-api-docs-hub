@@ -1,5 +1,24 @@
 [
   {
+    "id": "technical-writing-api-docs-hub-telegram-8",
+    "title": "Rust Language News & Updates",
+    "platform": "Telegram",
+    "category": "Systems Programming",
+    "memberCount": "32,000+ members",
+    "description": "Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.",
+    "joinUrl": "https://t.me/rust_lang_news",
+    "tags": [
+      "rust",
+      "telegram",
+      "systems",
+      "updates"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-25"
+  },
+  {
     "id": "technical-writing-api-docs-hub-discord-7",
     "title": "Rust Programming Language Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-24"
   },
   {
@@ -834,24 +853,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "technical-writing-api-docs-hub-telegram-8",
-    "title": "Rust Language News & Updates",
-    "platform": "Telegram",
-    "category": "Systems Programming",
-    "memberCount": "32,000+ members",
-    "description": "Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.",
-    "joinUrl": "https://t.me/rust_lang_news",
-    "tags": [
-      "rust",
-      "telegram",
-      "systems",
-      "updates"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "technical-writing-api-docs-hub-reddit-9",

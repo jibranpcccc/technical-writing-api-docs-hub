@@ -4,10 +4,17 @@
     <title>Technical Writing &amp; API Docs Hub</title>
     <link>https://jibranpcccc.github.io/technical-writing-api-docs-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 07:35:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 07:24:13 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/technical-writing-api-docs-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Rust Language News &amp; Updates (Telegram)</title>
+      <link>https://t.me/rust_lang_news</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-telegram-8-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 07:24:13 GMT</pubDate>
+      <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Rust Programming Language Discord (Discord)</title>
       <link>https://discord.gg/rust-lang</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-discord-7-2026-11-24</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-forum-20261026-1-2026-10-26</guid>
       <pubDate>Mon, 26 Oct 2026 06:50:19 GMT</pubDate>
       <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: TechCrunch Official Channel (Telegram)</title>
-      <link>https://t.me/techcrunch</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/technical-writing-api-docs-hub/#technical-writing-api-docs-hub-telegram-20261025-1-2026-10-25</guid>
-      <pubDate>Sun, 25 Oct 2026 06:05:03 GMT</pubDate>
-      <description>Newly verified community added to Technical Writing &amp; API Docs Hub: Breaking technology news, startup funding rounds, Big Tech earnings, and Silicon Valley analysis.</description>
     </item>
   </channel>
 </rss>
